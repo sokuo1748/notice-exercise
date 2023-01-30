@@ -1,0 +1,14 @@
+
+.row{
+    border-bottom:2px #b8b8b8 solid;
+}
+.button-row{
+    text-align: center;
+}
+.btn_notice{
+    text-align: center;
+   font-size:10px
+}
+#col-text{
+    text-align: center;
+}
